@@ -1,0 +1,6 @@
+@SE_Store_Api_HostAddress = http://localhost:5285
+
+GET {{SE_Store_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
